@@ -1,0 +1,16 @@
+{
+  "name": "0x03-es6_data_manipulation",
+  "version": "1.0.0",
+  "description": "* How to use map, filter and reduce on arrays * Typed Arrays * The Set, Map,  and Weak link data structures",
+  "main": "0-get_list_students.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.22.8",
+    "@babel/preset-env": "^7.22.7",
+    "eslint": "^8.44.0"
+  }
+}
